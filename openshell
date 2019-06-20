@@ -1,0 +1,7 @@
+#!/bin/bash
+
+date '+%D %T'
+figlet -f smslant 'welcome!'
+echo
+lk
+echo
