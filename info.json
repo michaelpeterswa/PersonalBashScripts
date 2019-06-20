@@ -1,0 +1,11 @@
+{
+    "project": [
+        {
+            "author": "MichaelPeters",
+            "projectName": "PersonalBashScripts",
+            "version": "0.1",
+            "description": "a collection of my personal bash scripts",
+            "githubLink": "https://github.com/michaelpeterswa/PersonalBashScripts"
+        }
+    ]
+}
